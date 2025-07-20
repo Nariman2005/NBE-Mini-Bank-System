@@ -41,13 +41,4 @@ A complete banking system that provides essential banking services for clients a
 - **Frontend**: HTML5, CSS3, JavaScript
 - **IDE**: Visual Studio 2022
 
-## 📋 Prerequisites
 
-- Visual Studio 2022 or later
-- .NET Framework 4.7.2
-- SQL Server LocalDB or SQL Server Express
-- IIS Express (included with Visual Studio)
-
-## 🚀 Installation & Setup
-
-### 1. Clone the Repository

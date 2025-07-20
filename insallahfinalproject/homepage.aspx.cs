@@ -117,7 +117,7 @@ namespace insallahfinalproject
             }
             catch
             {
-                // Optional: handle or silently ignore logging errors
+              
             }
         }
     }

@@ -125,8 +125,7 @@ CREATE DATABASE NBEBankingDB;
 ## Usage
 
 ### Running the Application
-# Open in Visual Studio and run
-F5
+
 ### For Clients
 
 #### Registration Process
@@ -214,8 +213,6 @@ NBE-Banking-System/
 - Role-based access (Client/Admin)
 - Account status verification
 - Session-based authentication
-
-## Database Schema
 
 ### Key Tables
 
@@ -323,5 +320,6 @@ This project demonstrates:
 ---
 
 *This project was developed as part of an internship program, demonstrating practical applications of ASP.NET Web Forms in creating secure banking applications with comprehensive user management and audit capabilities.*
+
 
 
